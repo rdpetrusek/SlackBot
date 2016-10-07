@@ -1,0 +1,12 @@
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\SlackBot.exe.config
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\SlackBot.exe
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\SlackBot.pdb
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\Newtonsoft.Json.dll
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\SlackAPI.dll
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\websocket-sharp.dll
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\Newtonsoft.Json.xml
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\SlackAPI.pdb
+C:\SlackBot\SlackBot\SlackBot\bin\Debug\websocket-sharp.xml
+C:\SlackBot\SlackBot\SlackBot\obj\Debug\SlackBot.csprojResolveAssemblyReference.cache
+C:\SlackBot\SlackBot\SlackBot\obj\Debug\SlackBot.exe
+C:\SlackBot\SlackBot\SlackBot\obj\Debug\SlackBot.pdb
